@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Gabriel Ferreira 👋
  💻 Desenvolvedor Fullstack 
-___
   <table>
   <tr>
     <td>
