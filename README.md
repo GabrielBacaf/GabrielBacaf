@@ -1,8 +1,17 @@
- ### Olá! Eu sou o Gabriel Ferreira 👋
+### Olá! Eu sou o Gabriel Ferreira 👋
  💻 Desenvolvedor Fullstack 
- 
-  ![Gabriel GitHub stats](https://github-readme-stats-9jq1.vercel.app/api?username=GabrielBacaf&show_icons=true&theme=dark&count_private=true
-)
+___
+  <table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-9jq1.vercel.app/api?username=GabrielBacaf&show_icons=true&theme=dark" alt="GitHub Stats" />
+    </td>
+    <td >
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBacaf&stats_format=bytes" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
 ___
 ### Tecnologias que uso no meu dia
 
